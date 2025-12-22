@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 int main() {
-    int n;
+    int year;
 
     printf("Enter a number: ");
-    scanf("%d", &n);
+    scanf("%d", &year);
 
     if ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0))
     {
