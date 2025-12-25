@@ -1,6 +1,7 @@
+// Write a C program to check whether a number is Perfect number or not.
 #include <stdio.h>
 
-int main()
+    int main()
 {
     int n;
 
