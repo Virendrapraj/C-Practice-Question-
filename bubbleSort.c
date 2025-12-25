@@ -26,4 +26,4 @@ int main() {
     return 0;
 }
 
-git add.git commit - m "Updated palindrome and prime programs" git push
+// git add.git commit - m "Updated palindrome and prime programs" git push
